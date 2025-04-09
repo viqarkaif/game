@@ -1,0 +1,20 @@
+{
+  "name": "game",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+  "build": "mkdir -p dist && cp index.html styles.css script.js dist/"
+},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/viqarkaif/game.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/viqarkaif/game/issues"
+  },
+  "homepage": "https://github.com/viqarkaif/game#readme"
+}
